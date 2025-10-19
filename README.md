@@ -1,2 +1,1 @@
-# osintx
-#python
+Pytython esy osint tool
